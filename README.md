@@ -6,8 +6,6 @@ Implementação de RPC (Remote Procedure Call) com Ruby utilizando o RabbitMQ co
 
 Apresentado por [Pedro Henrique][1].
 
-> __Atenção__: Este é o projeto <template/completo>, se você está procurando o projeto de <completo/template>, vá para [este repositório](https://github.com/rocketseat-experts-club/<seu projeto aqui>)
-
 ## Instalação
 
 1. Clone o repositório
