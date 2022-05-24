@@ -1,22 +1,30 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Título
+# RPC em Ruby com RabbitMQ
 
-Introdução ao seu projeto. Apresentado por [Seu nome][1].
+Implementação de RPC (Remote Procedure Call) com Ruby utilizando o RabbitMQ como message broker.
+
+Apresentado por [Pedro Henrique][1].
 
 > __Atenção__: Este é o projeto <template/completo>, se você está procurando o projeto de <completo/template>, vá para [este repositório](https://github.com/rocketseat-experts-club/<seu projeto aqui>)
 
 ## Instalação
 
-1. Use este template
-2. Edite o README.md
-3. Adicione seus arquivos
+1. Clone o repositório
+2. Garanta que você tem instalado no seu gerenciador de versões de preferência a versão `3.1.1` do Ruby
+3. Nas pastas server e client, instale as dependências com `bundle install`
+
+## Rodando
+
+1. rode o `rabbitmq-server`
+2. Inicie o server em `./server` utilizando o comando `ruby boot.rb` 
+3. Inicie o client em `./client` utilizando o comando `ruby boot.rb`
 
 ## Expert
 
-| [<img src="https://github.com/<seu handle>.png" width="75px;"/>][1] |
+| [<img src="https://github.com/phinfonet.png" width="75px;"/>][1] |
 | :-: |
 |[Creator][1]|
 
 
-[1]: https://seusite.com.br
+[1]: https://linkedin.com/in/phinfonet
